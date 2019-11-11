@@ -4,3 +4,6 @@ Four primary themes differentiate macOS apps from iOS, tvOS, and watchOS apps. K
 Flexible
 People expect macOS apps to be intuitive, while simultaneously adaptable to their workflow through customization and flexibility. Many apps offer configurable preferences, customizable interfaces, and alternate ways of completing tasks.
 Windows can often be resized and interface elements hidden or repositioned. Tasks can be initiated from toolbars, menus, controls, keyboard shortcuts, the Touch Bar, accessibility features, and more. A flexible app facilitates learning through discoverability.
+
+Expansive
+Large, high-resolution displays are typical for most Mac users, and people often extend their workspace by connecting additional displays.Apps can leverage this expansiveness and provide value by utilizing a wide range of interface components--like tabs, sidebars, sheets, and panels--and supporting immersive features like full-screen mode.
