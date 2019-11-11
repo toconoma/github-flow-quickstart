@@ -1,0 +1,2 @@
+macOS Design Themes
+Four primary themes differentiate macOS apps from iOS, tvOS, and watchOS apps. Keep these themes in mind as you imagine your app’s identity.
